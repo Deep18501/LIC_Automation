@@ -1,5 +1,7 @@
 # LIC_Automation
- Streamlining Repetitive Tasks in Life Insurance Corporation
+ Streamlining Repetitive Tasks in Life Insurance Corporation.
+It Can Only be used by LIC merchants ! 
+xpaths needs to be updated regularly as site if gets updated .
 
 I developed this automation script to simplify and streamline my father's work. 
 He was frequently performing repetitive tasks that involved performing a series of steps for a large number of entries. 
@@ -17,4 +19,3 @@ This project not only showcases my programming skills but also demonstrates my a
 It highlights my commitment to simplifying processes and finding innovative solutions to enhance efficiency and productivity.
 
 
-xpaths needs to be updated regularly as site if gets updated .
